@@ -1,0 +1,12 @@
+{
+  "domain": "noaa_co2",
+  "name": "NOAA Atmospheric CO2",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourusername/ha-noaa-co2",
+  "issue_tracker": "https://github.com/yourusername/ha-noaa-co2/issues",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "iot_class": "cloud_polling",
+  "config_flow": true
+}
